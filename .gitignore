@@ -1,0 +1,6 @@
+PR/
+*.err
+*.out
+*.bak
+*.o
+*.exe
